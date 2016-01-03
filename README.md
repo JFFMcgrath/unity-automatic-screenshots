@@ -12,4 +12,13 @@ On certain events - this will save a screenshot with and without UI (exploting a
   
 * At randomized intervals during play (between SCREENSHOT_INTERVAL_LOWER and SCREENSHOT_INTERVAL_UPPER)
   
-* Randomization is added to try to 'mix it up' a little, and make sure we aren't always capturing the same moments during play.
+
+Randomization is added to try to 'mix it up' a little, and make sure we aren't always capturing the same moments during play.
+
+Screenshots are output to your root project directory, in subfolder: "FreeProgressPictures".
+
+No idea where this whole "Free" prefix came from. I just started using it one day.
+
+Probably some semi-conscious yearning to stalk the fields, instead of stalking bureacracy.
+
+We'll never know!
