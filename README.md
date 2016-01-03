@@ -29,3 +29,6 @@ Probably some semi-conscious yearning to stalk the fields, instead of stalking b
 
 We'll never know!
 
+**Notes:**
+
+* Yeah... I have a class called "StateMachine" in there, and it's *not* in a namespace, so that's likely to irritate the hell out of you. It's a *really* common class name. Go nuts renaming it or what-not. I've been using Unity since back before namespaces weren't supported, and it's a whole *thing* I keep forgetting about in a non-enterprise context.
