@@ -4,6 +4,12 @@ An automated utility that takes progress screenshots of your Unity work. A nice 
 
 On certain events - this will save a screenshot with and without UI (exploting a bug in Unity's screenshot size argument that leads to no UI being shown - it may be fixed in some update, so this line will be irrelevant).
 
+**Instructions:**
+
+* Take these folders
+* Drop them in your Unity Project
+* Done
+
 **Screenshots are saved:**
 
 * Everytime you save a scene
@@ -22,3 +28,4 @@ No idea where this whole "Free" prefix came from. I just started using it one da
 Probably some semi-conscious yearning to stalk the fields, instead of stalking bureacracy.
 
 We'll never know!
+
