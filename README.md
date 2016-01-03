@@ -4,7 +4,7 @@ An automated utility that takes progress screenshots of your Unity work. A nice 
 
 On certain events - this will save a screenshot with and without UI (exploting a bug in Unity's screenshot size argument that leads to no UI being shown - it may be fixed in some update, so this line will be irrelevant).
 
-*Screenshots are saved:**
+**Screenshots are saved:**
 
 * Everytime you save a scene
   
